@@ -12,6 +12,7 @@ namespace Livros
         private Idioma Idioma { get; set; }
         private string Descricao { get; set; }
         private int Ano { get; set; }
+        private bool Excluido { get; set; }
 
         //Métodos
         public Livro (int id, Genero genero, string titulo, string autor, string editora, Idioma idioma, string descricao, int ano)
@@ -48,6 +49,10 @@ namespace Livros
             public int retornaId()
             {
                 return this.Id;
+            }
+            public void Excluir()
+            {
+                this.Excluido = true;
             }
     }
 }
