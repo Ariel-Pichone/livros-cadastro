@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\DIO\\Livros\\Livros\\Livros.csproj",
+      "projectUniqueName": "C:\\workspace\\DIO\\livros\\Livros.csproj",
       "projectName": "Livros",
-      "projectPath": "C:\\workspace\\DIO\\Livros\\Livros\\Livros.csproj",
+      "projectPath": "C:\\workspace\\DIO\\livros\\Livros.csproj",
       "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\DIO\\Livros\\Livros\\obj\\",
+      "outputPath": "C:\\workspace\\DIO\\livros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config"

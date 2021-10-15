@@ -25,6 +25,7 @@ namespace Livros
             this.Idioma = idioma;
             this.Descricao = descricao;
             this.Ano = ano;
+            this.Excluido = false;
         }
 
         public override string ToString()
@@ -38,6 +39,7 @@ namespace Livros
             retorno += "Idioma: " + this.Idioma + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno += "Ano: " + this.Ano + Environment.NewLine;
+            retorno += "Excluido: " + this.Excluido;
 			return retorno;
 		}
         
@@ -50,9 +52,15 @@ namespace Livros
             {
                 return this.Id;
             }
+            
             public void Excluir()
             {
                 this.Excluido = true;
             }
+
+            public bool retornaExcluido()
+		    {
+			return this.Excluido;
+		    }
     }
 }

@@ -4,7 +4,7 @@ using Livros.interfaces;
 
 namespace Livros
 {
-    public class SerieRepositorio : IRepositorio<Livro>
+    public class LivroRepositorio : IRepositorio<Livro>
     {
         private List<Livro> listaLivro = new List<Livro>();
         public void Atualiza(int id, Livro objeto)

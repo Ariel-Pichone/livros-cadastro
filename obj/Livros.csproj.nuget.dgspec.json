@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\DIO\\Livros\\Livros\\Livros.csproj": {}
+    "C:\\workspace\\DIO\\Livros\\Livros.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\DIO\\Livros\\Livros\\Livros.csproj": {
+    "C:\\workspace\\DIO\\Livros\\Livros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\DIO\\Livros\\Livros\\Livros.csproj",
+        "projectUniqueName": "C:\\workspace\\DIO\\Livros\\Livros.csproj",
         "projectName": "Livros",
-        "projectPath": "C:\\workspace\\DIO\\Livros\\Livros\\Livros.csproj",
+        "projectPath": "C:\\workspace\\DIO\\Livros\\Livros.csproj",
         "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\DIO\\Livros\\Livros\\obj\\",
+        "outputPath": "C:\\workspace\\DIO\\Livros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config"
