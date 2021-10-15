@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace livros.interfaces
+namespace Livros.interfaces
 {
     public interface IRepositorio<T>
     {
